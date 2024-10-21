@@ -8,8 +8,8 @@ const Payment = () => {
     const decodedMovieTitle = decodeURIComponent(movieTitle);
 
     const paymentMethods = [
-        { name: 'Credit Card', img: 'https://www.rupay.co.in/images/rupay/IOB_Select.png' },
-        { name: 'Debit Card', img: 'https://w7.pngwing.com/pngs/557/751/png-transparent-debit-card-visa-credit-card-brand-debit-card-label-debit-card-brand.png' },
+        { name: 'Credit Card', img: 'https://img.freepik.com/free-vector/black-credit-card_1017-6276.jpg?size=338&ext=jpg&ga=GA1.1.1887574231.1729036800&semt=ais_hybrid' },
+        { name: 'Debit Card', img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ3u4YFF39K7pxBSUCWIDW0L9C3B5_b7cADw&s' },
         { name: 'PayPal', img: 'https://www.citypng.com/public/uploads/preview/transparent-hd-paypal-logo-701751694777788ilpzr3lary.png' },
         { name: 'Google Pay', img: 'https://w7.pngwing.com/pngs/191/51/png-transparent-google-pay-or-tez-hd-logo-thumbnail.png' }
     ];
